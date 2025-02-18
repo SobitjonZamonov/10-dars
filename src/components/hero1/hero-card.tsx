@@ -43,7 +43,7 @@ export const Hero1 = () => {
 
   return (
     <div className="w-full h-[351px] flex justify-around items-center mt-4">
-      <div className="flex justify-around w-full">
+      <div className="flex justify-around items-center gap-[24px] w-[1440px]">
         <div className="w-[1005px] h-[351px] flex justify-between bg-[#EEF4FF] rounded-xl">
           <div className="p-8">
             <h2 className="text-[#262626] font-bold text-lg">Кўп ўқилаётганлар</h2>

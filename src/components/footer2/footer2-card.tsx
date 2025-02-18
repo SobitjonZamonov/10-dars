@@ -1,5 +1,4 @@
 import React from "react";
-import "./footer2-card.css"
 import social_sites from "../../assets/social.svg"
 import payment1 from "../../assets/payment1.svg"
 import payment2 from "../../assets/payment2.svg"

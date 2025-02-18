@@ -1,5 +1,4 @@
 import React from "react";
-import "./header2-card.css";
 
 
 export const Header2 = () => {

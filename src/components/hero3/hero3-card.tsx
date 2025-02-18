@@ -1,5 +1,4 @@
 import React from "react";
-import "./hero3-card.css"
 import picture1 from "../../assets/p1.png"
 import picture2 from "../../assets/p2.png"
 import picture3 from "../../assets/p3.png"
