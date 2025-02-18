@@ -1,10 +1,10 @@
 import React from "react";
-import picture1 from "../../assets/p1.png"
-import picture2 from "../../assets/p2.png"
-import picture3 from "../../assets/p3.png"
-import picture4 from "../../assets/p4.png"
-import picture5 from "../../assets/p5.png"
-import picture6 from "../../assets/p6.png"
+import picture1 from "../assets/p1.png"
+import picture2 from "../assets/p2.png"
+import picture3 from "../assets/p3.png"
+import picture4 from "../assets/p4.png"
+import picture5 from "../assets/p5.png"
+import picture6 from "../assets/p6.png"
 import Slider from "react-slick";
 import "slick-carousel/slick/slick.css"; 
 import "slick-carousel/slick/slick-theme.css";

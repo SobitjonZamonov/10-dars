@@ -1,8 +1,8 @@
 import React from "react";
-import icon1 from "../../assets/icon.svg";
-import icon2 from "../../assets/icon(1).svg";
-import icon3 from "../../assets/icon(2).svg";
-import icon4 from "../../assets/icon(3).svg";
+import icon1 from "../assets/icon.svg";
+import icon2 from "../assets/icon(1).svg";
+import icon3 from "../assets/icon(2).svg";
+import icon4 from "../assets/icon(3).svg";
 
 export const Hero2 = () => {
     const items = [

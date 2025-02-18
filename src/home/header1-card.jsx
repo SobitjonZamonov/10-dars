@@ -1,6 +1,6 @@
 import React from "react";
-import logo from "../../assets/Logo.svg";
-import flag from "../../assets/Frame(3).svg";
+import logo from "../assets/Logo.svg";
+import flag from "../assets/Frame(3).svg";
 
 export const Header1 = () => {
     return (

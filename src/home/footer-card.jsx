@@ -1,6 +1,6 @@
 import React from "react";
-import play_market from "../../assets/googleplay.svg";
-import app_store from "../../assets/appstore.svg";
+import play_market from "../assets/googleplay.svg";
+import app_store from "../assets/appstore.svg";
 
 export const Footer1 = () => {
   return (

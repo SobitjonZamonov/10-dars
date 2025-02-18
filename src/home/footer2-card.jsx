@@ -1,8 +1,8 @@
 import React from "react";
-import social_sites from "../../assets/social.svg"
-import payment1 from "../../assets/payment1.svg"
-import payment2 from "../../assets/payment2.svg"
-import payment3 from "../../assets/payment3.svg"
+import social_sites from "../assets/social.svg"
+import payment1 from "../assets/payment1.svg"
+import payment2 from "../assets/payment2.svg"
+import payment3 from "../assets/payment3.svg"
 
 export const Footer2 = () => {
     return (
